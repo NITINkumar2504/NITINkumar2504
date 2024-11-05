@@ -4,7 +4,7 @@
  <b> Badges </b><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://api.badgr.io/public/assertions/faRxOiAASKCmo_E4moK7vQ?identity__email=nk9465110%40gmail.com" width="100px" height="100px" />
+<img src="https://api.badgr.io/public/assertions/faRxOiAASKCmo_E4moK7vQ" width="100px" height="100px" />
 <!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
